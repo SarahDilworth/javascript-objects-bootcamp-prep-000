@@ -5,7 +5,7 @@ playlist['Phil Ochs'] = "Here\'s to the State of Mississippi";
 return playlist;
 }
 
-function removeFromPlaylist(playlisy) {
+function removeFromPlaylist(playlist) {
 delete playlist.Slowdive;
 return playlist;
 }
