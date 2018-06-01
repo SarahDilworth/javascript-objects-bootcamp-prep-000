@@ -6,7 +6,7 @@ return playlist;
 }
 
 function removeFromPlaylist(playlisy) {
-delete 'Slowdive'['Alison'];
+delete 'Alison'['Slowdive'];
 return playlist;
 }
 
