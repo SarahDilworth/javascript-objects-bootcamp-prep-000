@@ -6,7 +6,6 @@ return playlist;
 }
 
 function removeFromPlaylist(playlisy) {
-delete playlist['Slowdive'];
+delete playlist.Slowdive;
 return playlist;
 }
-
