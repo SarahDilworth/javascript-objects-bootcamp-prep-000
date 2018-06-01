@@ -6,6 +6,7 @@ return playlist;
 }
 
 function removeFromPlaylist(playlisy) {
-
+delete Slowdive.Alison;
+return playlist;
 }
 
