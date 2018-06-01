@@ -1,5 +1,5 @@
 var playlist = { 'Slowdive' : 'Alison', 'My Bloody Valentine' : 'Sometimes'};
 
 function updatePlaylist(playlist) {
-return Object.assign({}, playkist, {[]
+return Object.assign({}, playkist, {['Phil Ochs'] : ''
 }
